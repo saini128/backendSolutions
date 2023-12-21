@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1>Backend Solutions</h1>
-<p>This is just a timepass I recently started doing. Creating server programs in different less used language. I start with RUST as it is new and CPP because why not. Last commit will be when I write a server in Assembly😁</p>
+<p>This is just a timepass I recently started doing. Everyone is creating server programs using Express.js Django PHP and what not so I'm having fun creating server programs in somewhat less used language. I start with RUST as it is new and CPP because why not. Last commit will be when I write a server in Assembly😁</p>
 
 </div>
 
