@@ -8,11 +8,12 @@
 
 ## :star2: Technologies Used
 
-<h2>Programming Languages</h2> 
-    <img src="https://logodix.com/logo/700854.png" alt="Rust Logo" width="50" height="50">
-    <img src="https://images.vexels.com/media/users/3/166253/isolated/lists/14bc03b7b1c2c4e2656fd4c0a981cbbc-cpp-programming-language-icon.png" alt="CPP Logo" width="50" height="50">
+<h4>Programming Languages</h4> 
+    <img src="https://img.shields.io/badge/Rust-red?style=flat-square&logo=Rust&labelColor=grey&color=red
+" alt="Rust Logo" height="50">
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=C%2B%2B&labelColor=grey&color=red" alt="CPP Logo" height="50">
+z
 
-
-<h2>Database</h2> 
-<img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" alt="MongoDB Logo" width="50" height="50">
+<h4>Database</h4> 
+<img src="https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square&logo=MongoDB&labelColor=grey" alt="MongoDB Logo" height="50">
 
