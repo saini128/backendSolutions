@@ -1,0 +1,10 @@
+^D:\EVENTATTENDENCESYSTEM\SERVER\CPP_SERVER\CPP-HTTPLIB\BUILD\CMAKEFILES\13DE25D094C0FC8ED3A382861C4E9A67\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/eventAttendenceSystem/server/cpp_server/cpp-httplib -BD:/eventAttendenceSystem/server/cpp_server/cpp-httplib/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/eventAttendenceSystem/server/cpp_server/cpp-httplib/build/httplib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

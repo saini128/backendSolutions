@@ -1,0 +1,5 @@
+C:/Program Files (x86)/httplib/include/httplib.h
+C:/Program Files (x86)/httplib/lib/cmake/httplib/httplibConfig.cmake
+C:/Program Files (x86)/httplib/lib/cmake/httplib/httplibConfigVersion.cmake
+C:/Program Files (x86)/httplib/lib/cmake/httplib/FindBrotli.cmake
+C:/Program Files (x86)/httplib/lib/cmake/httplib/httplibTargets.cmake

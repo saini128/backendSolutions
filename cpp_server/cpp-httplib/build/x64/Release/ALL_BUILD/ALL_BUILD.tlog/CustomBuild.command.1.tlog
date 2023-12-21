@@ -1,0 +1,10 @@
+^D:\EVENTATTENDENCESYSTEM\SERVER\CPP_SERVER\CPP-HTTPLIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/eventAttendenceSystem/server/cpp_server/cpp-httplib -BD:/eventAttendenceSystem/server/cpp_server/cpp-httplib/build --check-stamp-file D:/eventAttendenceSystem/server/cpp_server/cpp-httplib/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
